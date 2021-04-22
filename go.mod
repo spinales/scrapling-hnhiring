@@ -2,4 +2,6 @@ module scrapling-hnhiring
 
 go 1.16
 
-require github.com/anaskhan96/soup v1.2.4 // indirect
+require (
+	golang.org/x/net v0.0.0-20210415231046-e915ea6b2b7d // indirect
+)
